@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T16:16:36.813+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Using a component in presentation</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Using a component in presentation</text></para>
+    </header>
+    <para styleclass="Normal" style="margin-top:18px; line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true">Now we have our basic component. In order to use it on the slide, we should link it in the head section:</text></para>
+    <para styleclass="List" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Screenshot_79.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; font-style:italic; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true">Note: you should define relative path to the component`s folder, in case if component was not installed as node module.</text></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true">It makes the component available on the slide. You can insert your newly created component by adding its dedicated HTML tag:</text></para>
+    <para styleclass="List" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Screenshot_80.png" scale="100.00%" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

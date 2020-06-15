@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T17:01:39.801+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">The Test Assignment</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">The Test Assignment</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:12pt;" translate="true">My test assignment consists the following chapters:</text><br/></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-size:12pt; font-weight:bold;" translate="true">Introduction: getting started with Cobalt Engine</text><text styleclass="Normal" style="font-size:12pt;" translate="true"> - the chapter provides the description of the system which can be used for the further actions (question 3)</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-size:12pt; font-weight:bold;" translate="true">Test Q&amp;A&apos;s</text><text styleclass="Normal" style="font-size:12pt;" translate="true"> - the chapter provides answers to questions 1, 2 from the email. </text></li>
+    </list>
+  </body>
+</topic>

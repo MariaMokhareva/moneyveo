@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-14T23:06:34.439+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Configuration</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Configuration</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px; line-height:1.70; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">Before starting to work within the Invoice processing, set configurations for the correct work of the following processes: </text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="List" style="text-align:justify; text-indent:-17px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.70; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="List" style="text-align:justify; text-indent:-17px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.70; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">Audit </text></li>
+      <li styleclass="List" style="text-align:justify; text-indent:-17px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.70; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">Reconciliation (Data-Quality)</text></li>
+      <li styleclass="List" style="text-align:justify; text-indent:-17px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:40px; line-height:1.70; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">Allocation </text></li>
+    </list>
+  </body>
+</topic>

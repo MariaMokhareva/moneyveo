@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T21:09:31.165+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Test Q&amp;A&apos;s</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Test Q&amp;A&apos;s</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">The topic provides answers to questions from the email</text></para>
+  </body>
+</topic>

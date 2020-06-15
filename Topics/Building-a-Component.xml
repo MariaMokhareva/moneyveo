@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T16:13:33.099+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Building a component</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Building a component</text></para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#424242;" translate="true">Use the </text><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#c7254e; background-color:#f9f2f4;" translate="true">co comp build</text><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#424242;" translate="true"> command to build a component in order to make it usable in the presentation:</text></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#cacaca; background-color:#272822;" translate="true">D:\my-presentation\app\greeting&gt; co comp build</text></para>
+  </body>
+</topic>

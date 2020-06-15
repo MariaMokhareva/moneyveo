@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="439975472804069" build="ALL" modified="2020-06-15T17:00:58.983Z" icon="0" href="The-Test-Task">
+    <caption translate="true">The Test Assignment</caption>
+  </topicref>
+  <topicref type="topic" id="439969531790485" build="ALL" modified="2020-06-15T21:13:47.298Z" icon="0" href="Introduction">
+    <caption translate="true">Introduction: getting started with Cobalt Engine</caption>
+    <topicref type="topic" id="439967592203837" build="ALL" modified="2020-06-15T14:40:13.304Z" icon="0" href="Welcome-topic">
+      <caption translate="true">Cobalt Ecosystem</caption>
+    </topicref>
+    <topicref type="topic" id="439976483574017" build="ALL" modified="2020-06-15T16:13:11.499Z" icon="0" href="Installation">
+      <caption translate="true">Creating a component</caption>
+      <topicref type="topic" id="439975025193695" build="ALL" modified="2020-06-15T16:13:17.832Z" icon="0" href="Initializing-Component">
+        <caption translate="true">Initializing a component</caption>
+      </topicref>
+      <topicref type="topic" id="439975181296173" build="ALL" modified="2020-06-15T16:13:28.099Z" icon="0" href="Building-a-Component">
+        <caption translate="true">Building a component</caption>
+      </topicref>
+      <topicref type="topic" id="439975398046211" build="ALL" modified="2020-06-15T16:12:47.065Z" icon="0" href="Using-a-component-in-presentat">
+        <caption translate="true">Using a component in presentation</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="439976376399400" build="ALL" modified="2020-06-15T16:28:13.148Z" icon="0" href="Component-based-architecture">
+      <caption translate="true">Component Development Cycle</caption>
+      <topicref type="topic" id="439976335791746" build="ALL" modified="2020-06-15T16:29:15.707Z" icon="0" href="Component-based-architecture2">
+        <caption translate="true">Creating</caption>
+      </topicref>
+      <topicref type="topic" id="439974929363620" build="ALL" modified="2020-06-15T16:32:17.327Z" icon="0" href="Publishing">
+        <caption translate="true">Publishing</caption>
+      </topicref>
+      <topicref type="topic" id="43998052335821" build="ALL" modified="2020-06-15T16:33:18.984Z" icon="0" href="Reusing">
+        <caption translate="true">Reusing</caption>
+      </topicref>
+      <topicref type="topic" id="439978665820609" build="ALL" modified="2020-06-15T16:39:10.749Z" icon="0" href="Updating">
+        <caption translate="true">Updating</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="439970550029169" build="CHM,EBOOK,FULL,HTML,HXS,PDF,PRINT" modified="2020-06-15T21:14:43.312Z" icon="0" href="Chapter-2">
+    <caption translate="true">Test Q&amp;A's</caption>
+    <topicref type="topic" id="439975090054335" build="ALL" modified="2020-06-15T17:01:57.382Z" icon="0" href="Question-1">
+      <caption translate="true">Question 1</caption>
+    </topicref>
+    <topicref type="topic" id="439976233099710" build="ALL" modified="2020-06-15T17:02:06.862Z" icon="0" href="Question-2">
+      <caption translate="true">Question 2</caption>
+    </topicref>
+  </topicref>
+</map>

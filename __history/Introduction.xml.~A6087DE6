@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T16:25:20.798+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Introduction: getting started with Cobalt Engine</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Introduction: getting started with Cobalt Engine</text></para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#424242;" translate="true">Cobalt Engine is an automated HTML5 framework for creative agencies and developers&apos; teams, which lies on the background of eWizard content management platform, empowering Digital Content Factory. The technology and platform are already adopted by over 20 pharmaceutical companies and global creative agencies.</text></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#424242;" translate="true">Cobalt and eWizard combination reduces content management efforts, facilitates agency-customer communication and collaboration, providing reusable components, automated development process, transparent review with direct connection to major CLM and DAM systems, as well as rapid content localization and updates.</text></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"></para>
+    <para styleclass="Normal" style="line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline; color:#424242;" translate="true">Cobalt empowers flexible and universal eDetailing development from scratch and makes content 100% editable and reusable. &#160;Presentations developed with this technology can be easily built for multiple CLM/CRM systems and devices. Using Cobalt as a standard for HTML5 development ensures more productivity, agility and scalability.</text></para>
+    <para styleclass="Normal" style="line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>

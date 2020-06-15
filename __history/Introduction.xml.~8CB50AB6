@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-14T23:25:07.611+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Introduction</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Introduction</text></para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.70; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">The MobiChord application provides the logic of converting invoices from the very specific carrier formats into a clear single structure. The electronic file received from the carrier will be transformed into the readable format, imported into the ServiceNow, checked for the data discrepancies and completeness and allocated according to the Company’s policies. The data received will be presented both in the backend tables and in the chart view for visual analysis.</text></para>
+    <para styleclass="Normal" style="margin-top:18px; margin-bottom:18px; line-height:1.70; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; vertical-align:baseline;" translate="true">The Invoices and the billing information received from the carrier can be used for the approval, reporting and payment processes. The application provides the default workflow but allows users to easily configure or even customize it according to the Company’s requirements. </text></para>
+    <para styleclass="Normal" style="line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>

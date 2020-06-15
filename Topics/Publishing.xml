@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2020-06-15T16:32:59.342+03:00" lasteditedby="User1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Publishing</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Publishing</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.25; background-color:#ffffff; tabstops:none;"><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true">When the component is created and tested, it can be used in your presentations (component should be installed and registered manually), and shared with other users. The component sharing is implemented via publishing to </text><link displaytype="text" defaultstyle="true" type="weblink" href="https://components.cobalt-engine.com/#/modules" styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true">Components Gallery</link><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true"> (use the </text><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#c7254e; background-color:#f9f2f4;" translate="true">co component publish</text><text styleclass="Normal" style="font-size:12pt; text-decoration:none; vertical-align:baseline; color:#424242;" translate="true"> command), where it will be available on the eWizard instance for all users.</text></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.00; tabstops:none;"></para>
+  </body>
+</topic>
